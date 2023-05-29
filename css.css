@@ -1,0 +1,48 @@
+*{
+    font-size: 24px;
+    background-color:rgb(155, 221, 221) ;
+
+}
+.header{
+    width: 900px;
+    height: 733px;
+    border: 5px solid black;
+    padding: 6px;
+    margin: 15px;
+    display:flex;
+}
+.nav{
+    width: 900px;
+    height: 60px;
+    border: 5px solid black;
+    padding: 6px;
+    margin: 15px;
+}
+.navber{
+    width: 247px;
+    height: 680px;
+    border: 5px solid black;
+    padding: 6px;
+    margin: 15px;
+}
+.navbe{
+    width: 247px;
+    height: 680px;
+    border: 5px solid black;
+    padding: 6px;
+    margin: 15px;
+}
+.navb{
+    width: 247px;
+    height: 680px;
+    border: 5px solid black;
+    padding: 6px;
+    margin: 15px;
+}
+.div{
+    width: 900px;
+    height: 70px;
+    border: 5px solid black;
+    padding: 6px;
+    margin: 15px;
+}
